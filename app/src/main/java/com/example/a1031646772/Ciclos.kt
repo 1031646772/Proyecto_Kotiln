@@ -78,4 +78,6 @@ fun main() {
     println("Los numeros impares fueron $contadorno")
     println("La suma de los numeros pares fue $sumapares")
     println("La suma de los numeros impares fue $sumaimpares")
+
+    //aprendimos lo que son los ciclos
 }
