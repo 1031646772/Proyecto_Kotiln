@@ -8,4 +8,5 @@ fun main() {
     val temperature=20
     val isHot=if(temperature>40)true else false
     println(isHot)
+    println(Bestia)
 }
